@@ -17,7 +17,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
                 callback_data=f"MusicStream {videoid}|{user_id}|v|{channel}|{fplay}",
             ),
         ],
-        [InlineKeyboardButton(text=_["MATRIX_BUTTON"], url=f"https://t.me/k_40_x")],
+        [InlineKeyboardButton(text=_["𝐇𝐔𝐒𝐒𝐄𝐈𝐍𖤝⚡"], url=f"https://t.me/wt_wk")],
         [
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"],
@@ -91,7 +91,7 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
                 callback_data=f"Playlists {videoid}|{user_id}|{ptype}|v|{channel}|{fplay}",
             ),
         ],
-        [InlineKeyboardButton(text=_["MATRIX_BUTTON"], url=f"https://t.me/My1mind1")],
+        [InlineKeyboardButton(text=_["𝐇𝐔𝐒𝐒𝐄𝐈𝐍𖤝⚡"], url=f"https://t.me/wt_wk")],
         [
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"],
@@ -110,7 +110,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
                 callback_data=f"LiveStream {videoid}|{user_id}|{mode}|{channel}|{fplay}",
             ),
         ],
-        [InlineKeyboardButton(text=_["MATRIX_BUTTON"], url=f"https://t.me/My1mind1")],
+        [InlineKeyboardButton(text=_["𝐇𝐔𝐒𝐒𝐄𝐈𝐍𖤝⚡"], url=f"https://t.me/wt_wk")],
         [
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"],
