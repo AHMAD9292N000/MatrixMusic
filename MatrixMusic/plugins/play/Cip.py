@@ -126,7 +126,7 @@ async def addbot(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                       "المطور  𖢳", user_id=6218149232),
+                       "المطور  𖢳", user_id=6629890248),
                 ],[
                     InlineKeyboardButton(
                         "• ضيفني لقروبك 🎻", url=f"https://t.me/A_I_S_Sbot?startgroup=true"),
@@ -150,7 +150,7 @@ async def addbot(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "تحديثات ريماگس 🍻", url=f"https://t.me/My1mind1"),
+                        "تحديثات ريماگس 🍻", url=f"https://t.me/wt_wk"),
                 ],[
                     InlineKeyboardButton(
                         "• ضيفني لقروبك 🎻", url=f"https://t.me/A_I_S_Sbot?startgroup=true"),
@@ -257,7 +257,7 @@ async def mnsat(client: Client, message: Message):
 • SoundCloud
 • AppleMusic
 • Spotify
-- لو واجهت مشكلة تواصل مع مطور السورس @Mjtre7**
+- لو واجهت مشكلة تواصل مع مطور السورس @WT_WM**
 - [𝑺𝒐𝒖𝒓𝒄𝒆 𝒅𝒊𝒏𝒂](t.me/Mlze1bot)
 """,
         reply_markup=InlineKeyboardMarkup(
@@ -275,12 +275,12 @@ async def mnsat(client: Client, message: Message):
 
 @app.on_message(filters.command(["وووووووووووو"],"") & filters.private)
 async def laksk(client: Client, message: Message):
-    await message.reply_text(f"""\n\n\n╭── • [𝑺𝒐𝒖𝒓𝒄𝒆 𝐥𝐚𝐫𝐞𝐧 ](t.me/J_X_Z4) • ──╮\n\n ✧ **اوامر التشغيل بالجروبات**\n\n• **شغل او تشغيل  + اسم الاغنية او بالرد** \n-› لتشغيل الاغاني فالمجموعة\n\n• **انهاء ** او ** ايقاف**\n-› لايقاف تشغيل جميع الصوتيات بالمكالمة\n\n• **تخطي** \n-› لتشغيل التالي بالانتظار\n\n • **لارين اص** او **اسكت**\n-› لكتم صوت الحساب المساعد بالمكالمة\n\n• **لارين تكلمي او واصل**\n-› لالغاء الكتم واكمال التشغيل\n\n• **لارين ايقاف** او **قف او توقف**\n -› لايقاف التشغيل بشكل مؤقت\n\n• **لارين كملي** او **استئناف**\n -› لاكمال التشغيل بعد الايقاف المؤقت\n\n╰── • [𝑺𝒐𝒖𝒓𝒄𝒆 𝒅𝒊𝒏𝒂](t.me/Mlze1bot) • ──╯""",
+    await message.reply_text(f"""\n\n\n╭── • [𝑺𝒐𝒖𝒓𝒄𝒆 𝐥𝐚𝐫𝐞𝐧 ](t.me/wt_wk) • ──╮\n\n ✧ **اوامر التشغيل بالجروبات**\n\n• **شغل او تشغيل  + اسم الاغنية او بالرد** \n-› لتشغيل الاغاني فالمجموعة\n\n• **انهاء ** او ** ايقاف**\n-› لايقاف تشغيل جميع الصوتيات بالمكالمة\n\n• **تخطي** \n-› لتشغيل التالي بالانتظار\n\n • **لارين اص** او **اسكت**\n-› لكتم صوت الحساب المساعد بالمكالمة\n\n• **لارين تكلمي او واصل**\n-› لالغاء الكتم واكمال التشغيل\n\n• **لارين ايقاف** او **قف او توقف**\n -› لايقاف التشغيل بشكل مؤقت\n\n• **لارين كملي** او **استئناف**\n -› لاكمال التشغيل بعد الايقاف المؤقت\n\n╰── • [𝑺𝒐𝒖𝒓𝒄𝒆 𝒅𝒊𝒏𝒂](t.me/wt_wk) • ──╯""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "", url=f"https://t.me/Mlze1bot"),
+                        "", url=f"t.me/wt_wk"),
                 ],[
                     InlineKeyboardButton(
                         "• ضيفني لقروبك 🎻", url=f"https://t.me/smauabot?startgroup=true"),
@@ -303,7 +303,7 @@ async def dowmmr(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "", url=f"https://t.me/Mlze1bot"),
+                        "", url=f"t.me/wt_wk"),
                 ],[
                     InlineKeyboardButton(
                         "• ضيفني لقروبك 🎻", url=f"https://t.me/A_I_S_Sbot?startgroup=true"),
@@ -324,7 +324,7 @@ async def dowmmr(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "", url=f"https://t.me/Mlze1bot"),
+                        "", url=f"t.me/wt_wk"),
                 ],[
                     InlineKeyboardButton(
                         "• ضيفني لقروبك 🎻", url=f"https://t.me/A_I_S_Sbot?startgroup=true"),
@@ -439,7 +439,7 @@ REPLY_MESSHHAGE_BUTTONSS = [
 ]
 
   
-@app.on_message(filters.command(["كيب المطور"],"") & filters.user(6938671104))
+@app.on_message(filters.command(["كيب المطور"],"") & filters.user(6629890248))
 async def com(_, message: Message):             
         text = REPLY_MESSHHAGEE
         reply_markup = ReplyKeyboardMarkup(REPLY_MESSHHAGE_BUTTONSS, resize_keyboard=True, selective=True)
