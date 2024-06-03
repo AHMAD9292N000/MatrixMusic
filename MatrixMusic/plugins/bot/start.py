@@ -28,7 +28,7 @@ force_btn = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="ليطمـ𓆰ٰ⍣⃟ٰٰٖٖ۪۬🇾🇪۬ـئن عقلـ۬ۦٕ٘۬ﹻٰ۬ۛۛـي", url="https://t.me/My1mind1"
+                text="𝐇𝐔𝐒𝐒𝐄𝐈𝐍𖤝⚡", url="https://t.me/WT_WM"
             ),                        
         ],        
     ]
