@@ -78,19 +78,19 @@ async def yas(client, message):
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/5e261225b0770e4888ef7.jpg",
+        photo=f"https://telegra.ph/file/d893816c7a714f06b8a25.mp4",
         caption=f"""↯︙اهلا بك عزيزي {message.from_user.mention}\n↯︙مطورين سورس دينا ميوزك""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "‹ : ᯓ ˹ أليسع .↓ : ›", url=f"https://t.me/Mjtre7"), 
+                        "‹ : ᯓ ˹ أليسع .↓ : ›", url=f"https://t.me/wt_wk"), 
                  ],[
                     InlineKeyboardButton(
-                        "‹ :ليطمـ𓆰ٰ⍣⃟ٰٰٖٖ۪۬🇾🇪۬ـئن عقلـ۬ۦٕ٘۬ﹻٰ۬ۛۛـي : ›", url=f"https://t.me/My1mind1"),
+                        "‹ :𝐇𝐔𝐒𝐒𝐄𝐈𝐍𖤝⚡: ›", url=f"https://t.me/WT_WM"),
                 ],[
                     InlineKeyboardButton(
-                        "‹ : 𝚂𝙾𝚄𝚁𝙲𝙴  : ›", url=f"https://t.me/My1mind1"),
+                        "‹ : 𝚂𝙾𝚄𝚁𝙲𝙴  : ›", url=f"https://t.me/WT_WM"),
                 ],
 
             ]
@@ -108,7 +108,7 @@ async def huhh(client, message):
     from_url = f"tg://openmessage?user_id={from_id}"
     ahmed = message.text
     await message.reply_animation(
-        animation=f"https://telegra.ph/file/5a18fe591860a8a98f39f.mp4",
+        animation=f"https://telegra.ph/file/d893816c7a714f06b8a25.mp4",
         caption=f"""↯︙قتل ↫ ⦗ {app.get_chat(to_id).first_name}]({to_url}) ⦘\nالضحيه دا 😢 ↫ ⦗ [{app.get_chat(from_id).first_name}]({from_url}) ⦘\nانا لله وانـا اليـه راجعـون 😢😢""",
     )
     reply_markup=InlineKeyboardMarkup(
@@ -116,7 +116,7 @@ async def huhh(client, message):
        [
            [
                InlineKeyboardButton(
-                   "‹ : 𝚂𝙾𝚄𝚁𝙲𝙴 𝙳𝙰𝚁𝙺 : ›", url=f"https://t.me/k_40_x"),
+                   "‹ : 𝚂𝙾𝚄𝚁𝙲𝙴 𝙳𝙰𝚁𝙺 : ›", url=f"https://t.me/WT_WM"),
            ],
        ]
     ),
