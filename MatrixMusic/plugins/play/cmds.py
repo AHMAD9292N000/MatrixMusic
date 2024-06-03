@@ -16,7 +16,7 @@ async def zdatsr(client: Client, message: Message):
     name = usr.first_name
     usrnam = usr.username
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/a3f0b02ae0a5f2374d909.jpg",
+        photo=f"https://telegra.ph/file/d893816c7a714f06b8a25.mp4",
         caption=f"""<b> ❆︙مرحباً بك عزيزي</b>\n\n<b>❆︙استخدم الازرار بالاسفل ل تصفح اوامر الميوزك</b>""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -59,7 +59,7 @@ reply_markup=InlineKeyboardMarkup(
             [            
               InlineKeyboardButton (name, url=f"https://t.me/{usrnam}"),
             ],[
-              InlineKeyboardButton("ليطمـ𓆰ٰ⍣⃟ٰٰٖٖ۪۬🇾🇪۬ـئن عقلـ۬ۦٕ٘۬ﹻٰ۬ۛۛـي�", url="https://t.me/My1mind1"),
+              InlineKeyboardButton("𝐇𝐔𝐒𝐒𝐄𝐈𝐍𖤝⚡", url="https://t.me/WT_WM"),
             ],
           ]
        )                 
