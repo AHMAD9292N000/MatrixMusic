@@ -87,10 +87,10 @@ async def huhh(client: Client, message: Message):
                         "‹ : ᯓ ˹ أليسع .↓ : ›", url=f"https://t.me/wt_wk"), 
                  ],[
                     InlineKeyboardButton(
-                        "‹ :𝐇𝐔𝐒𝐒𝐄𝐈𝐍𖤝⚡: ›", url=f"https://t.me/WT_WM"),
+                        "‹ :𝐇𝐔𝐒𝐒𝐄𝐈𝐍𖤝⚡: ›", url=f"https://t.me/wt_wk"),
                 ],[
                     InlineKeyboardButton(
-                        "‹ : 𝚂𝙾𝚄𝚁𝙲𝙴  : ›", url=f"https://t.me/WT_WM"),
+                        "‹ : 𝚂𝙾𝚄𝚁𝙲𝙴  : ›", url=f"https://t.me/wt_wk"),
                 ],
 
             ]
@@ -116,7 +116,7 @@ async def huhh(client, message):
        [
            [
                InlineKeyboardButton(
-                   "‹ : 𝚂𝙾𝚄𝚁𝙲𝙴 𝙳𝙰𝚁𝙺 : ›", url=f"https://t.me/WT_WM"),
+                   "‹ : 𝚂𝙾𝚄𝚁𝙲𝙴 𝙳𝙰𝚁𝙺 : ›", url=f"https://t.me/wt_wk"),
            ],
        ]
     ),
