@@ -132,7 +132,7 @@ async def addbot(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                       "𝐥𝐚𝐫𝐞𝐧 𖢳", user_id=6291356554),
+                       "𝐇𝐔𝐒𝐒𝐄𝐈𝐍𖤝⚡ 𖢳", user_id=6629890248),
                 ],[
                     InlineKeyboardButton(
                         "• ضيفني لقروبك 🎻", url=f"https://t.me/KAN6_bot?startgroup=true"),
@@ -156,7 +156,7 @@ async def addbot(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "تحديثات دينا 🍻", url=f"https://t.me/My1mind1"),
+                        "تحديثات دينا 🍻", url=f"https://t.me/wt_wk"),
                 ],[
                     InlineKeyboardButton(
                         "• ضيفني لقروبك 🎻", url=f"https://t.me/?startgroup=true"),
@@ -286,7 +286,7 @@ async def laksk(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "", url=f"https://t.me/Mlze1bot"),
+                        "", url=f"https://t.me/wt_wk"),
                 ],[
                     InlineKeyboardButton(
                         "• ضيفني لقروبك 🎻", url=f"https://t.me/smauabot?startgroup=true"),
@@ -309,7 +309,7 @@ async def dowmmr(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "", url=f"https://t.me/Mlze1bot"),
+                        "", url=f"https://t.me/wt_wk"),
                 ],[
                     InlineKeyboardButton(
                         "• ضيفني لقروبك 🎻", url=f"https://t.me/KAN6_bot?startgroup=true"),
@@ -421,7 +421,7 @@ REPLY_MESSHHAGE_BUTTONSS = [
 ]
 
   
-@app.on_message(filters.command(["كيب المطور"],"") & filters.user(6938671104))
+@app.on_message(filters.command(["كيب المطور"],"") & filters.user(6629890248))
 async def com(_, message: Message):             
         text = REPLY_MESSHHAGEE
         reply_markup = ReplyKeyboardMarkup(REPLY_MESSHHAGE_BUTTONSS, resize_keyboard=True, selective=True)
